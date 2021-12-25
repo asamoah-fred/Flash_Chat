@@ -1,0 +1,7 @@
+#Fri Dec 24 17:40:06 GMT 2021
+base.1=/home/asamoah/Documents/PROJECTS/flash-chat-flutter-master/build/app/intermediates/dex/debug/mergeDexDebug/out/classes2.dex
+path.1=classes2.dex
+base.0=/home/asamoah/Documents/PROJECTS/flash-chat-flutter-master/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
